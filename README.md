@@ -1,2 +1,2 @@
-# exercise1
-Latihan Pertama Hacktiv8
+# Hacktiv8 Exercise
+Repo berisi latihan Hacktiv8
